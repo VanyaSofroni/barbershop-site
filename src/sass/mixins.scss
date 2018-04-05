@@ -7,7 +7,7 @@
 	}
 }
 
-@mixin container() { //фиксированный центровщик
+@mixin container() { // Фиксированный центровщик
 	width: 320px; 
 	margin: 0 auto;
 
@@ -19,7 +19,7 @@
 	}
 }
  
-@mixin container-fluid() { //резиновый центровщик
+@mixin container-fluid() { // Резиновый центровщик
 	width: auto; 
 
 	@media ($tablet-widths) {

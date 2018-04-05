@@ -234,7 +234,8 @@ img {
   width: 36px;
   height: 2px;
   background-color: #fff;
-  box-shadow: 0 8px 0 0 #fff, 0 16px 0 0 #fff; }
+  box-shadow: 0 8px 0 0 #fff,
+ 0 16px 0 0 #fff; }
 
 .main-nav--closed .main-nav__toggle:active::before {
   background-color: rgba(255, 255, 255, 0.3);

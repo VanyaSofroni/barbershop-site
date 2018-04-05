@@ -12,8 +12,9 @@ var popupSuccess = document.querySelector('.popup-success');
 var popupSuccessClose = document.querySelector('.popup-success__close');
 
 
-// Валидация формы
-//Logic bookingForm
+			// Валидация формы
+
+// Logic bookingForm
 if (bookingFormStorageName) {
   bookingFormName.value = bookingFormStorageName;
 }

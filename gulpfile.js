@@ -128,5 +128,3 @@ gulp.task('build', function(fn) {
 gulp.task('clear', function (callback) {
 	return cache.clearAll();
 })
-
-

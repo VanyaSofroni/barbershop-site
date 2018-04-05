@@ -1,13 +1,12 @@
 {
-  "name": "myproject",
+  "name": "barbershop-site",
   "version": "1.0.0",
-  "description": "My Gulp Project",
   "main": "index.js",
   "scripts": {
     "build": "gulp build",
     "watch": "gulp watch"
   },
-  "author": "Sofroni",
+  "author": "Vanya Sofroni",
   "license": "ISC",
   "devDependencies": {
     "autoprefixer": "^7.1.5",
